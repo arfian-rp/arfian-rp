@@ -15,7 +15,6 @@
 <br/>
 
 ## Follow my social media:
-
 [<img align="left" alt="arfian-id.web.app" width="35px" src="https://arfian-id.web.app/img/profil.jpg" />][website]
 [<img align="left" alt="https://github.com/arfian-rp" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />][github]
 [<img align="left" alt="https://www.instagram.com/arfian_rp_" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />][instagram]
