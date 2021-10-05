@@ -50,7 +50,7 @@
 <br/>
 <br/>
 <br/>
-![Arfian-rp GitHub stats](https://github-readme-stats.vercel.app/api?username=arfian-rp&show_icons=true&theme=onedark)
+![Arfian GitHub stats](https://github-readme-stats.vercel.app/api?username=arfian-rp&show_icons=true&theme=onedark)
 <br/>
 <br/>
 <br/>
