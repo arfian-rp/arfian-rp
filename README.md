@@ -1,18 +1,18 @@
-### Hi there, I'm Arfian 👋
+## Hi there, I'm Arfian 👋
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
 <img src="https://komarev.com/ghpvc/?username=arfian-rp">
 </a>
 
 <hr/>
 
-### About me:
+## About me:
 - 🏫 I'm a junior high school student
 - 🍃 learn anything, no need to be fixated on the curriculum
 - 🥋 brown belt karate
 
 <hr/>
 
-### Follow my social media:
+## Follow my social media:
 
 [<img align="left" alt="arfian-id.web.app" width="22px" src="https://arfian-id.web.app/img/profil.jpg" />][website]
 [<img align="left" alt="https://github.com/arfian-rp" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />][github]
