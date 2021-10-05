@@ -1,0 +1,19 @@
+### Hi there, I'm Arfian 👋
+
+- 🏫 I'm a junior high school student
+- 🍃 learn anything, no need to be fixated on the curriculum
+- 🥋 brown belt karate
+
+### Follow my social media:
+
+[<img align="left" alt="arfian-id.web.app" width="22px" src="https://arfian-id.web.app/img/profil.jpg" />][website]
+[<img align="left" alt="https://github.com/arfian-rp" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />][github]
+[<img align="left" alt="https://www.instagram.com/arfian_rp_" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />][instagram]
+[<img align="left" alt="https://twitter.com/ArfianRp" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" />][twitter]
+
+<br />
+
+[website]: https://arfian-id.web.app
+[github]: https://github.com/arfian-rp
+[twitter]: https://twitter.com/ArfianRp
+[instagram]: https://www.instagram.com/arfian_rp_
