@@ -3,14 +3,12 @@
 <img src="https://komarev.com/ghpvc/?username=arfian-rp">
 </a>
 
-<hr/>
 
 ## About me:
 - 🏫 I'm a junior high school student
 - 🍃 learn anything, no need to be fixated on the curriculum
 - 🥋 brown belt karate
 
-<hr/>
 
 ## Follow my social media:
 
@@ -20,7 +18,6 @@
 [<img align="left" alt="https://twitter.com/ArfianRp" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" />][twitter]
 
 <br/>
-<hr/>
 <br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arfian-rp&layout=compact&theme=onedark)
