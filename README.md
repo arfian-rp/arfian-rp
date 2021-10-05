@@ -3,11 +3,16 @@
 <img src="https://komarev.com/ghpvc/?username=arfian-rp">
 </a>
 
+<br/>
+<br/>
 
 ## About me:
 - 🏫 I'm a junior high school student
 - 🍃 learn anything, no need to be fixated on the curriculum
 - 🥋 brown belt karate
+
+<br/>
+<br/>
 
 ## Skills:
 <img height="35px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> 
@@ -21,6 +26,7 @@
 <img height="35px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
 
 <br/>
+<br/>
 
 ## Follow my social media:
 
@@ -31,11 +37,16 @@
 
 <br/>
 <br/>
+<br/>
+<br/>
 
+## Statistics
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arfian-rp&layout=compact&theme=onedark)
 <br/>
 <br/>
+<br/>
 ![Arfian-rp GitHub stats](https://github-readme-stats.vercel.app/api?username=arfian-rp&show_icons=true&theme=onedark)
+<br/>
 <br/>
 <br/>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arfian-rp&theme=onedark)](https://git.io/streak-stats)
