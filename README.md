@@ -1,4 +1,5 @@
 ### Hi there, I'm Arfian 👋
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
 
 - 🏫 I'm a junior high school student
 - 🍃 learn anything, no need to be fixated on the curriculum
