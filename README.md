@@ -14,6 +14,16 @@
 <br/>
 <br/>
 
+## Follow my social media:
+
+[<img align="left" alt="arfian-id.web.app" width="35px" src="https://arfian-id.web.app/img/profil.jpg" />][website]
+[<img align="left" alt="https://github.com/arfian-rp" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />][github]
+[<img align="left" alt="https://www.instagram.com/arfian_rp_" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />][instagram]
+[<img align="left" alt="https://twitter.com/ArfianRp" width="35px" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" />][twitter]
+
+<br/>
+<br/>
+
 ## Language and tools:
 <img height="35px" align="left" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
 <img height="35px" align="left" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg">
@@ -31,16 +41,6 @@
 <img height="35px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 <img height="35px" align="left" src="https://e7.pngegg.com/pngimages/307/948/png-clipart-socket-io-node-js-javascript-network-socket-websocket-electrical-cable-angle-triangle.png">
 <img height="35px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
-
-<br/>
-<br/>
-
-## Follow my social media:
-
-[<img align="left" alt="arfian-id.web.app" width="35px" src="https://arfian-id.web.app/img/profil.jpg" />][website]
-[<img align="left" alt="https://github.com/arfian-rp" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />][github]
-[<img align="left" alt="https://www.instagram.com/arfian_rp_" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />][instagram]
-[<img align="left" alt="https://twitter.com/ArfianRp" width="35px" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" />][twitter]
 
 <br/>
 <br/>
