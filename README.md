@@ -10,6 +10,8 @@
 - 🏫 I'm a junior high school student
 - 🍃 learn anything, no need to be fixated on the curriculum
 - 🥋 brown belt karate
+- 🐫 masih pemula hehehe
+
 
 <br/>
 <br/>
