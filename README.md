@@ -65,5 +65,6 @@
 
 [website]: https://arfian-id.web.app
 [github]: https://github.com/arfian-rp
+[github]: https://github.com/arfian-rp-app
 [twitter]: https://twitter.com/ArfianRp
 [instagram]: https://www.instagram.com/arfian_rp_
