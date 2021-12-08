@@ -57,6 +57,8 @@
    <img src="https://github-profile-trophy.vercel.app/?username=arfian-rp&column=7&theme=onedark"/>
 </a>
 <br/>
+<br/>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arfian-rp&layout=compact&theme=onedark)
 <br/>
 <br/>
