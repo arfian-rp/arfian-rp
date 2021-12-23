@@ -9,7 +9,6 @@
 
 ## About me:
 - 🏫 I'm a junior high school student
-- 🍃 learn anything, no need to be fixated on the curriculum
 
 
 <br/>
