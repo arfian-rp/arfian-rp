@@ -8,7 +8,7 @@
 <br/>
 
 ## About me:
-- 🏫 I'm a junior high school student
+- Human
 
 
 <br/>
